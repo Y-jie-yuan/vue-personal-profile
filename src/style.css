@@ -1,0 +1,12 @@
+/* 全局基础样式
+   说明：Vite 模板自带的演示样式（#app 布局、h1/h2、hero、dark 媒体查询等）
+   已移除，避免与个人信息页面的主题变量和布局冲突。
+   页面主体样式全部写在 src/App.vue 里。 */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
